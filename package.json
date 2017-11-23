@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap4_starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Haley",
+  "license": "ISC"
+}
