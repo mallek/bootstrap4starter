@@ -56,3 +56,12 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# Compiled css
+src/css/*
+
+# Fonts
+src/fonts
+
+# Minified js
+src/js/*.min.js
